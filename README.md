@@ -35,6 +35,6 @@ Make sure you have Python 3 and the required security tools installed on your sy
 Clone the repository and run the script with root privileges (required for certain nmap scan types):
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/ReconX.git](https://github.com/YOUR_USERNAME/ReconX.git)
+git clone https://github.com/oussama2011belkouri-max/ReconX
 cd ReconX
 sudo python3 ReconX.py <TARGET_IP> [--fast]
